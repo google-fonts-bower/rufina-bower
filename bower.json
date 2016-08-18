@@ -1,0 +1,17 @@
+{
+    "name": "rufina-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Martin Sommaruga"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/rufina-bower.git"
+    },
+    "description": "Rufina font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
